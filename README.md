@@ -5,12 +5,31 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently working on Node.js, Express.js, PostgreSQL, and Prisma for backend development.
+* 🌱 I’m currently learning Docker, AWS, and Generative AI technologies.
+* 👯 I’m looking to collaborate on AI-powered applications, backend systems, and automation tools.
+* 🤔 I’m looking for help with scalable AI system design, RAG pipelines, and cloud deployment.
+* 💬 Ask me about JavaScript, Python, REST APIs, databases, backend architecture, and AI fundamentals.
+* 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I enjoy combining backend engineering with AI to build smart real-world applications.
+
+## 🌐 Follow Me On
+
+<p align="left">
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://twitter.com/your-twitter-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
