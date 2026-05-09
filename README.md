@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I’m currently working on Node.js, Express.js, PostgreSQL, and Prisma for backend development.
+ 🔭 I’m currently working on Node.js, Express.js, PostgreSQL, and Prisma for backend development.
 * 🌱 I’m currently learning Docker, AWS, and Generative AI technologies.
 * 👯 I’m looking to collaborate on AI-powered applications, backend systems, and automation tools.
 * 🤔 I’m looking for help with scalable AI system design, RAG pipelines, and cloud deployment.
