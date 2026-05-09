@@ -1,4 +1,4 @@
-<img width="1807" height="700" alt="github_banner" src="https://github.com/user-attachments/assets/e9376971-9753-4ea5-afec-399edb6036a2" />![Alt Text](https://drive.google.com/file/d/1G_ZbWJS60E0B66sowAnKnQwXzc1ZasGl/view?usp=sharing)
+<img width="1807" height="700" alt="github_banner" src="https://github.com/user-attachments/assets/e9376971-9753-4ea5-afec-399edb6036a2" />
 
 
 * 🔭 I’m currently working on Node.js, Express.js, PostgreSQL, and Prisma for backend development.
@@ -23,5 +23,5 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: https://your-portfolio.com  
+- 📧 Email: u1904067@student.cuet.ac.bd
+- 🌐 Portfolio: [https://your-portfolio.com](https://mehedi-portfolio-ecru.vercel.app/)  
