@@ -6,26 +6,22 @@
 * 👯 I’m looking to collaborate on AI-powered applications, backend systems, and automation tools.
 * 🤔 I’m looking for help with scalable AI system design, RAG pipelines, and cloud deployment.
 * 💬 Ask me about JavaScript, Python, REST APIs, databases, backend architecture, and AI fundamentals.
-* 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+* 📫 How to reach me: [u1904067@student.cuet.ac.bd](mailto:u1904067@student.cuet.ac.bd)
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I enjoy combining backend engineering with AI to build smart real-world applications.
 
 ## 🌐 Follow Me On
 
-<p align="left">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mehedi-hasan-35a681324/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://facebook.com/your-facebook">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  <a href="https://discord.com/users/1112059563450060941">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p>
+## 📬 Contact Me
+
+- 📧 Email: your-email@example.com  
+- 🌐 Portfolio: https://your-portfolio.com  
