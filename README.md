@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Backend-focused+Full-Stack+Developer;Competitive+Programmer+(350%2B+Codeforces+Problems+Solved);CUET+CSE+Student" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Backend-focused+Full-Stack+Developer;Competitive+Programmer+(350%2B+Codeforces+Problems+Solved);" 
     alt="Typing SVG" 
   />
 </h3>
@@ -33,4 +33,27 @@
 ## 📬 Contact Me
 
 - 📧 Email: u1904067@student.cuet.ac.bd
-- 🌐 Portfolio: [https://your-portfolio.com](https://mehedi-portfolio-ecru.vercel.app/)  
+- 🌐 Portfolio: [https://your-portfolio.com](https://mehedi-portfolio-ecru.vercel.app/)
+
+## 🛠️ TECHNOLOGY STACK:
+
+### 🔹 Languages:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,c++,ts,javascript,python" />
+</p>
+
+### 🔹 CSS Frameworks & Libraries:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
+
+### 🔹 JavaScript Frameworks & Libraries:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Database & Model
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
+</p>
+
