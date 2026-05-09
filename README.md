@@ -33,7 +33,7 @@
 ## 📬 Contact Me
 
 - 📧 Email: u1904067@student.cuet.ac.bd
-- 🌐 Portfolio: [https://your-portfolio.com](https://mehedi-portfolio-ecru.vercel.app/)
+- 🌐 Portfolio: [https://mehedi-portfolio-ecru.vercel.app/](https://mehedi-portfolio-ecru.vercel.app/)
 
 ## 🛠️ TECHNOLOGY STACK:
 
