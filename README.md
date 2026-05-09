@@ -3,7 +3,10 @@
 <h1 align="center">Hi 👋, I'm Md Mehedi Hasan</h1>
 
 <h3 align="center">
-Backend-focused Full-Stack Developer | CUET CSE Student | Competitive Programmer (350+ Codeforces problems solved)
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&lines=Backend-focused+Full-Stack+Developer;Competitive+Programmer+(350%2B+Codeforces+Problems+Solved);CUET+CSE+Student" 
+    alt="Typing SVG" 
+  />
 </h3>
 
 ## About Me
