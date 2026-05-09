@@ -1,6 +1,12 @@
 <img width="1807" height="700" alt="github_banner" src="https://github.com/user-attachments/assets/e9376971-9753-4ea5-afec-399edb6036a2" />
 
+<h1 align="center">Hi 👋, I'm Md Mehedi Hasan</h1>
 
+<h3 align="center">
+Backend-focused Full-Stack Developer | CUET CSE Student | Competitive Programmer (350+ Codeforces problems solved)
+</h3>
+
+## About Me
 * 🔭 I’m currently working on Node.js, Express.js, PostgreSQL, and Prisma for backend development.
 * 🌱 I’m currently learning Docker, AWS, and Generative AI technologies.
 * 👯 I’m looking to collaborate on AI-powered applications, backend systems, and automation tools.
